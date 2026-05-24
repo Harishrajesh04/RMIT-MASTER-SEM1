@@ -1,0 +1,12 @@
+Name: Harish Rajesh
+Student ID: S4216549
+
+Files Included:
+1. S4216549_Assignment2.ipynb
+2. S4216549_report.pdf
+3. Student_Dropout_Success.csv
+
+Instructions:
+1. Open the notebook using Jupyter Notebook.
+2. Keep the dataset file in the same folder as the notebook.
+3. Run all cells from top to bottom.
